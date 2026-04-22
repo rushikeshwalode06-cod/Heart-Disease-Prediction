@@ -40,6 +40,8 @@ The dataset contains medical attributes like:
 ##  🤖 Machine Learning Models
 Logistic Regression
 
+![ml](https://github.com/rushikeshwalode06-cod/Heart-Disease-Prediction/blob/main/Heart%20Disease%20Prediction%20graph.png?raw=true)
+
 
 ## 🔍 Workflow
 1. Data Collection
