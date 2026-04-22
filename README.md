@@ -6,6 +6,8 @@ Heart Disease Prediction is a machine learning project that predicts the risk of
 
 This project predicts the risk of heart disease using machine learning algorithms. It analyzes patient health data such as age, blood pressure, cholesterol, heart rate, and other medical attributes to determine whether a person is at risk.
 
+![ml](https://github.com/rushikeshwalode06-cod/Heart-Disease-Prediction/blob/main/Heart%20disease%20Prediction.png?raw=true)
+
 ## 🎯 Objective
 
 The main goal is to build a predictive model that can help in early detection of heart disease and support better healthcare decisions.
