@@ -38,7 +38,7 @@ The dataset contains medical attributes like:
 * 🤖 Scikit-learn
   
 ##  🤖 Machine Learning Models
-**Logistic Regression**
+* **Logistic Regression**
 
 ![ml](https://github.com/rushikeshwalode06-cod/Heart-Disease-Prediction/blob/main/Heart%20Disease%20Prediction%20graph.png?raw=true)
 
