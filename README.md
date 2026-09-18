@@ -36,7 +36,7 @@ The dataset contains medical attributes like:
 * 🐼 Pandas
 * 📊 Matplotlib / Seaborn
 * 🤖 Scikit-learn
-* 
+  
 ##  🤖 Machine Learning Models
 **Logistic Regression**
 
@@ -50,7 +50,7 @@ The dataset contains medical attributes like:
 * 🧪 Model Testing
 * 📊 Model Evaluation
 * 🎯 Prediction
-* 
+  
 ## 💡 Future Improvements
 * 🚀 Improve Accuracy Using Advanced Models
 * 🌐 Deploy Using Flask / Streamlit
