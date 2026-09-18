@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction
+# ❤️ Heart-Disease-Prediction
 Heart Disease Prediction is a machine learning project that predicts the risk of heart disease using patient data like age, blood pressure, cholesterol, and heart rate. It applies classification algorithms to analyze patterns and provide early detection, helping in better healthcare decisions.
 
 # ❤️ Heart Disease Prediction using Machine Learning
@@ -31,31 +31,31 @@ The dataset contains medical attributes like:
 14. heart disease (target variable)
 
 ## ⚙️ Technologies Used
-1. Python
-2. NumPy
-3. Pandas
-4. Matplotlib / Seaborn
-5. Scikit-learn
-
+* 🐍 Python
+* 🔢 NumPy
+* 🐼 Pandas
+* 📊 Matplotlib / Seaborn
+* 🤖 Scikit-learn
+* 
 ##  🤖 Machine Learning Models
-Logistic Regression
+**Logistic Regression**
 
 ![ml](https://github.com/rushikeshwalode06-cod/Heart-Disease-Prediction/blob/main/Heart%20Disease%20Prediction%20graph.png?raw=true)
 
 
 ## 🔍 Workflow
-1. Data Collection
-2. Data Preprocessing
-3. Model Training
-4. Model Testing 
-5. Model Evaluation
-6. Prediction
-
+* 📥 Data Collection
+* 🧹 Data Preprocessing
+* 🧠 Model Training
+* 🧪 Model Testing
+* 📊 Model Evaluation
+* 🎯 Prediction
+* 
 ## 💡 Future Improvements
-1. Improve accuracy using advanced models
-2. Deploy using Flask / Streamlit
-3. Add real-time prediction UI
+* 🚀 Improve Accuracy Using Advanced Models
+* 🌐 Deploy Using Flask / Streamlit
+* 🖥️ Add Real-Time Prediction UI
 
 ## 🙌 Conclusion
 
-This project demonstrates how machine learning can be used in healthcare to assist in early diagnosis and improve patient outcomes.
+
