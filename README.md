@@ -59,3 +59,4 @@ The dataset contains medical attributes like:
 ## 🙌 Conclusion
 The Heart Disease Prediction model successfully uses Logistic Regression to classify whether a patient is likely to have heart disease based on various health-related features. The model was trained, tested, and evaluated using classification metrics and a confusion matrix.
 
+![ml](https://github.com/rushikeshwalode06-cod/Heart-Disease-Prediction/blob/main/Heart_image.png?raw=true)
